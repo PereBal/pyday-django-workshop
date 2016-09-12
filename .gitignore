@@ -1,7 +1,6 @@
 # Common folders
 .env
 __pycache__
-db.sqlite3
 
 # Editor backup files
 *.sw[op]

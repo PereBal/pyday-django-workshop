@@ -22,10 +22,13 @@ store the requirements of the project.
 Follow the tutorial steps, but beforehead,
 > Make sure you have sqlite3 installed
 
-3. [Creating your first app][] ()
+3. [Creating your first app][] ( 8d37f5c )
+
+4. [Exploring the admin][] ()
 
 
 [django-girls]: http://tutorial.djangogirls.org/en/
 [Installation]: http://tutorial.djangogirls.org/en/installation/
 [Setting up the project]: http://tutorial.djangogirls.org/en/django_start_project/
 [Creating your first app]: http://tutorial.djangogirls.org/en/django_models/
+[Exploring the admin]: http://tutorial.djangogirls.org/en/django_admin/
