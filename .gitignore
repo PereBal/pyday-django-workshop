@@ -1,0 +1,5 @@
+# Common folders
+.env
+
+# Editor backup files
+*.sw[op]
