@@ -26,7 +26,9 @@ Follow the tutorial steps, but beforehead,
 
 4. [Exploring the admin][] ( 9f0bde7 )
 
-5. [Adding URLs][] ()
+5. [Adding URLs][] ( 178f093 )
+
+6. [Adding the first view][] ()
 
 
 [django-girls]: http://tutorial.djangogirls.org/en/
@@ -35,3 +37,4 @@ Follow the tutorial steps, but beforehead,
 [Creating your first app]: http://tutorial.djangogirls.org/en/django_models/
 [Exploring the admin]: http://tutorial.djangogirls.org/en/django_admin/
 [Adding URLs]: http://tutorial.djangogirls.org/en/django_urls/
+[Adding the first view]: http://tutorial.djangogirls.org/en/django_views/
