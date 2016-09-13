@@ -28,7 +28,11 @@ Follow the tutorial steps, but beforehead,
 
 5. [Adding URLs][] ( 178f093 )
 
-6. [Adding the first view][] ()
+6. [Adding the first view][] ( babfbf5 )
+
+7. [Yea, a template][] ( 0c7d7a2 )
+
+8. [First QuerySet example][] ()
 
 
 [django-girls]: http://tutorial.djangogirls.org/en/
@@ -38,3 +42,5 @@ Follow the tutorial steps, but beforehead,
 [Exploring the admin]: http://tutorial.djangogirls.org/en/django_admin/
 [Adding URLs]: http://tutorial.djangogirls.org/en/django_urls/
 [Adding the first view]: http://tutorial.djangogirls.org/en/django_views/
+[Yea, a template]: http://tutorial.djangogirls.org/en/html/
+[First QuerySet example]: http://tutorial.djangogirls.org/en/dynamic_data_in_templates/
