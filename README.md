@@ -34,7 +34,9 @@ Follow the tutorial steps, but beforehead,
 
 8. [First QuerySet example][] ( 6857bb5 )
 
-9. [Templating every day][] ()
+9. [Templating every day][] ( 71c4e0e )
+
+10. [CSS here][] ()
 
 
 [django-girls]: http://tutorial.djangogirls.org/en/
@@ -47,3 +49,4 @@ Follow the tutorial steps, but beforehead,
 [Yea, a template]: http://tutorial.djangogirls.org/en/html/
 [First QuerySet example]: http://tutorial.djangogirls.org/en/dynamic_data_in_templates/
 [Templating every day]: http://tutorial.djangogirls.org/en/django_templates/
+[CSS here]: https://tutorial.djangogirls.org/en/css/
