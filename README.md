@@ -19,7 +19,7 @@ store the requirements of the project.
     pip freeze --local > requirements.txt
     ```
 2. [Setting up the project][] ( 7365461 )
-Follow the tutorial steps, but beforehead,
+Follow the tutorial steps, but beforehand,
 > Make sure you have sqlite3 installed
 
 3. [Creating your first app][] ( 8d37f5c )
@@ -34,10 +34,11 @@ Follow the tutorial steps, but beforehead,
 
 8. [First QuerySet example][] ( 6857bb5 )
 
-9. [Templating every day][] ( 71c4e0e )
+9. [Templating every day][] ( 68e2222 )
 
-10. [CSS here][] ()
+10. [CSS here][] ( 661f342 )
 
+11. [Template extension][] ()
 
 [django-girls]: http://tutorial.djangogirls.org/en/
 [Installation]: http://tutorial.djangogirls.org/en/installation/
@@ -50,3 +51,4 @@ Follow the tutorial steps, but beforehead,
 [First QuerySet example]: http://tutorial.djangogirls.org/en/dynamic_data_in_templates/
 [Templating every day]: http://tutorial.djangogirls.org/en/django_templates/
 [CSS here]: https://tutorial.djangogirls.org/en/css/
+[Template extension]: https://tutorial.djangogirls.org/en/template_extending/
