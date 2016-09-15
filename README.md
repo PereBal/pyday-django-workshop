@@ -32,7 +32,9 @@ Follow the tutorial steps, but beforehead,
 
 7. [Yea, a template][] ( 0c7d7a2 )
 
-8. [First QuerySet example][] ()
+8. [First QuerySet example][] ( 6857bb5 )
+
+9. [Templating every day][] ()
 
 
 [django-girls]: http://tutorial.djangogirls.org/en/
@@ -44,3 +46,4 @@ Follow the tutorial steps, but beforehead,
 [Adding the first view]: http://tutorial.djangogirls.org/en/django_views/
 [Yea, a template]: http://tutorial.djangogirls.org/en/html/
 [First QuerySet example]: http://tutorial.djangogirls.org/en/dynamic_data_in_templates/
+[Templating every day]: http://tutorial.djangogirls.org/en/django_templates/
